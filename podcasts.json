@@ -585,15 +585,15 @@
 	},
 	{
 		"name": "Tribo do C.I. Podcast",
-		"description": "",
-		"status": false,
-		"itunes_link": "https://itunes.apple.com/br/podcast/rede-geek-ultrageek/id775753572?mt=2",
+		"description": "Só mais um podcast de informática (só que não)",
+		"status": true,
+		"itunes_link": "",
 		"website_link": "http://tribodoci.net/categoria/podcast/",
 		"youtube_link": "https://www.youtube.com/tribodoci",
 		"rss_link": "http://tribodoci.net/podcast/",
 		"soundclound_link": "",
 		"twitter_at": "tribodoci",
-		"image": "",
+		"image": "http://tribodoci.net/images/tribo_do_ci_podcast_itunes_144x144.png",
 		"language": "pt_br"
 	},
 	{
